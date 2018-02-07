@@ -148,3 +148,7 @@ link:
 37.NoSQLBooster
 
 link:
+
+38. Parallels Desktop
+
+link:
