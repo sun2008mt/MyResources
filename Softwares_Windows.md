@@ -1,26 +1,37 @@
+# 浏览器
+
 1.Google Chrome
 
 2.Mozilla Firefox
 
-3.ShadowSocks
 
-4.Putty
-
-5.WinSCP
-
-6.Fidder
-
-7.网易云音乐
-
-8.TIM
-
-9.QQ音乐
+# 网络下载存储
 
 10.迅雷
 
 11.百度网盘
 
+
+# 音乐播放
+
+7.网易云音乐
+
+9.QQ音乐
+
+
+# 视频播放
+
+43.迅雷影音
+
 12.优酷
+
+
+# 通讯
+
+8.TIM
+
+
+# IDE
 
 13.Android Studio
 
@@ -36,21 +47,10 @@
 
 19.VS Code
 
-20.Sublime Text3
-
-21.NotePad++
-
 22.Atom
 
-23.Universal USB Installer
 
-24.UltraISO
-
-25.Everything
-
-26.DiskInternals Linux Reader
-
-27.有道词典
+# 开发环境工具
 
 28.MinGW
 
@@ -60,30 +60,80 @@
 
 31.GO
 
-32.EasyBCD
+41.Git
 
-33.Smart Defrag
+44.Postman
 
-34.CCleaner
+
+# 远程访问代理
+
+3.ShadowSocks
+
+4.Putty
+
+5.WinSCP
+
+6.Fidder
+
+
+# 镜像
+
+23.Universal USB Installer
+
+24.UltraISO
+
+
+# 磁盘
 
 35.DiskGenius
 
+26.DiskInternals Linux Reader
+
+33.Smart Defrag
+
+
+# 搜索
+
+25.Everything
+
+
+# 学习
+
+27.有道词典
+
+
+# 系统
+
+32.EasyBCD
+
 36.驱动精灵
 
-37.VMWare Workstation
+34.CCleaner
 
-38.WPS
+
+# 文本阅读
+
+20.Sublime Text3
+
+21.NotePad++
 
 39.Adobe Reader
 
 40.Cmd Markdown
 
-41.Git
+38.WPS
 
-42.QGIS
 
-43.迅雷影音
+# 虚拟机
 
-44.Postman
+37.VMWare Workstation
+
+
+# 数据库
 
 45.NoSQLBooster
+
+
+# GIS
+
+42.QGIS
