@@ -22,6 +22,8 @@
 
 9.QQ音乐
 
+48.EveryonePiano
+
 
 # 视频播放
 
@@ -137,7 +139,13 @@
 
 45.NoSQLBooster
 
+50.SQLiteManager
+
 
 # GIS
 
 42.QGIS
+
+# 生活
+
+49. Bypass
