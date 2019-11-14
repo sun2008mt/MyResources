@@ -1,154 +1,154 @@
 cllection of softwares (MacOS)
 ---
 
-1.Google Chrome
+Google Chrome
 
 link:
 
-2.QQ
+QQ
 
 link:
 
-3.Android Studio
+Android Studio
 
 link:
 
-4.WebStorm
+WebStorm
 
 link:
 
-5.Thunder
+Thunder
 
 link:
 
-6.uTorrent
+uTorrent
 
 link:
 
-7.ShadowSocks
+ShadowSocks
 
 link:
 
-8.HomeBrew
+HomeBrew
 
 link:
 
-9.HomeBrew Cask
+HomeBrew Cask
 
 link:
 
-10.iTerm2
+iTerm2
 
 link:
 
-11.Sublime Text3
+Sublime Text3
 
 link:
 
-12.Atom:
+Atom:
 
 link:
 
-13.VSCode
+VSCode
 
 link:
 
-14:Charles
+Charles
 
 link:
 
-15.Alfred
+Alfred
 
 link:
 
-16.Dash
+Dash
 
 link:
 
-17.MicroSoft Office
+MicroSoft Office
 
 link:
 
-18.NeteaseMusic
+NeteaseMusic
 
 link:
 
-19.QQ Music
+QQ Music
 
 link:
 
-20.baiduNet
+baiduNet
 
 link:
 
-21.Sketch
+Sketch
 
 link:
 
-22.MacDown
+MacDown
 
 link:
 
-23.Magican
+Magican
 
 link:
 
-24.Sougou Input
+Sougou Input
 
 link:
 
-25.Libre Office
+Libre Office
 
 link:
 
-26.TextMate
+TextMate
 
 link:
 
-27.ImageOption
+ImageOption
 
 link:
 
-28.The unarchiver
+The unarchiver
 
 link:
 
-29.Flux
+Flux
 
 link:
 
-30.Snip
+Snip
 
 link:
 
-31.Spectacle
+Spectacle
 
 link:
 
-32.Clover Configurator
+Clover Configurator
 
 link:
 
-33.TextWrangler/BBEdit
+TextWrangler/BBEdit
 
 link:
 
-34.PP助手
+PP助手
 
 link:
 
-35.Listen 1
+Listen 1
 
 link:
 
-36.Postman
+Postman
 
 link:
 
-37.NoSQLBooster
+NoSQLBooster
 
 link:
 
-38. Parallels Desktop
+Parallels Desktop
 
 link:
