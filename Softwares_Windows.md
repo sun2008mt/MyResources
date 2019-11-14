@@ -1,151 +1,155 @@
 # 浏览器
 
-1.Google Chrome
+Google Chrome
 
-2.Mozilla Firefox
+Mozilla Firefox
 
 
 # 网络下载存储
 
-10.迅雷
+迅雷
 
-11.百度网盘
+百度网盘
 
-46.冰点文库下载器
+冰点文库下载器
 
-47.pandownload
+pandownload
+
+motrix
 
 
 # 音乐播放
 
-7.网易云音乐
+网易云音乐
 
-9.QQ音乐
+QQ音乐
 
-48.EveryonePiano
+EveryonePiano
 
 
 # 视频播放
 
-43.迅雷影音
+迅雷影音
 
-12.优酷
+优酷
+
+爱奇艺
 
 
 # 通讯
 
-8.TIM
+TIM
 
 
 # IDE
 
-13.Android Studio
+Android Studio
 
-14.IntelliJ Idea
+IntelliJ Idea
 
-15.WebStorm
+WebStorm
 
-16.CLion
+CLion
 
-17.Unity
+Unity
 
-18.LiteIDE
+LiteIDE
 
-19.VS Code
+VS Code
 
-22.Atom
+Atom
 
 
 # 开发环境工具
 
-28.MinGW
+MinGW
 
-29.JDK
+JDK
 
-30.NodeJS
+NodeJS( + gnvm)
 
-31.GO
+GO
 
-41.Git
+Git
 
-44.Postman
+Postman
 
 
 # 远程访问代理
 
-3.ShadowSocks
+ShadowSocks
 
-4.Putty
+Putty
 
-5.WinSCP
+WinSCP
 
-6.Fidder
+Fidder
 
 
 # 镜像
 
-23.Universal USB Installer
+Universal USB Installer
 
-24.UltraISO
+UltraISO
 
 
 # 磁盘
 
-35.DiskGenius
+DiskGenius
 
-26.DiskInternals Linux Reader
+DiskInternals Linux Reader
 
-33.Smart Defrag
+Smart Defrag
 
 
 # 搜索
 
-25.Everything
+Everything
 
 
 # 学习
 
-27.有道词典
+有道词典
 
 
 # 系统
 
-32.EasyBCD
+EasyBCD
 
-36.驱动精灵
+驱动精灵
 
-34.CCleaner
+CCleaner
 
 
 # 文本阅读
 
-20.Sublime Text3
+Sublime Text3
 
-21.NotePad++
+NotePad++
 
-39.Adobe Reader
+Adobe Reader
 
-40.Cmd Markdown
+Cmd Markdown
 
-38.WPS
+WPS
 
 
 # 虚拟机
 
-37.VMWare Workstation
+VMWare Workstation
 
 
 # 数据库
 
-45.NoSQLBooster
+NoSQLBooster
 
-50.SQLiteManager
+SQLiteManager
 
 
 # GIS
 
-42.QGIS
+QGIS
 
 # 生活
 
-49. Bypass
+Bypass
